@@ -3,5 +3,7 @@ public class Store {
         // Store class is created
 
         // clothes, shoes
+
+        // Updating class
     }
 }
