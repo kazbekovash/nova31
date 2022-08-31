@@ -6,5 +6,6 @@ public class Hat {
 
         // Updating class
 
+        // Hat class is completed
     }
 }
